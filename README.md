@@ -27,5 +27,7 @@ Speaking about the "victim" computer, after you pressed the "Spy this computer" 
 
 ## Author's links
    [MY GITHUB REPOSITORY](https://github.com/stasiukmykhailo?tab=repositories)
+   
    [MY LINKEDIN](https://www.linkedin.com/in/mykhailo-stasiuk-25a27b259)
+   
    [MY TWITTER](https://twitter.com/stasiukmykhail0)
