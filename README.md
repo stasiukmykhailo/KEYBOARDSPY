@@ -3,6 +3,7 @@
 ## Description
 
 Keyboard spy is used to track which keys were pressed on the remote computer. The mechanism "WinHook" was used in this project to make it look like a virus and hide from the "victim's" eyes. 
+
 **WARNING!** The author in no way recommends using this program for hacking or espionage. This project was created only as a pet-project for author's small portfolio.
 
 ## How to start spying
@@ -22,7 +23,10 @@ Press the **"SPY"** button. **NOW YOUR COMPUTER SENDS INFORMATION OF PRESSED KEY
 
 ## Logic
 The spy creates the "local receiving point" where data comes from other computers. Immediately, as the user pressed the "create point" button, the computer starts to react and begins "grabbing" data, that was sent to him. To stop receiving data just close the program.
-Speaking about the "victim" computer, after you pressed the "Spy this computer" button, information of each key, the user has pressed, will be "tracked" and sent to the spy. In order for the victim not to notice these actions, the program will not be displayed on the taskbar, it will be visible only in the task manager.
+Speaking about the "victim" computer, after you pressed the "Spy this computer" button, information of each key, the user has pressed, will be 
+
+"tracked" and sent to the spy. In order for the victim not to notice these actions, the program will not be displayed on the taskbar, it will be visible only in the task manager.
+
 **AS MENTIONED HIGHER:** The author in no way recommends using this program for hacking or espionage. This project was created only as a pet-project for author’s small portfolio.
 
 ## Author's links
